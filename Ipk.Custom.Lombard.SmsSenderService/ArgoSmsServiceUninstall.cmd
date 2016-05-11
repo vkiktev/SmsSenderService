@@ -1,0 +1,1 @@
+﻿%WinDir%\Microsoft.NET\Framework\v4.0.30319\installutil.exe /u "Ipk.Custom.Lombard.SmsSenderService.exe"
